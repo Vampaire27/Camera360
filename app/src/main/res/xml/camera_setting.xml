@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:layout="@layout/pref_catalog_layout"
+        android:title="@string/setting_base">
+        <SwitchPreference
+            android:layout="@layout/pref_switch_layout"
+            android:title="@string/setting_defualt_backview"
+            android:key="pref_default_backview"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

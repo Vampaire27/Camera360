@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Camera360</string>
+
+    <string name="permission_tip">提示</string>
+    <string name="permission_msg">申请权限失败! \n
+            你可以在设置界面中点击"权限"手动进行控制</string>
+    <string name="permission_btn_setting">去设置界面</string>
+    <string name="permission_btn_quit">退出</string>
+
+    <string name="BackView">后视</string>
+    <string name="setting_base">基本参数设置</string>
+    <string name="setting_defualt_backview">默认现实后视</string>
+
+</resources>

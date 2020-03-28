@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Camera360</string>
+
+    <string name="permission_tip">Tip</string>
+    <string name="permission_msg">request permission failed! \n
+            you can grant permission in setting interface -> Permissions</string>
+    <string name="permission_btn_setting">go to setting</string>
+    <string name="permission_btn_quit">quit</string>
+
+    <string name="BackView">Back View</string>
+    <string name="setting_base">Base Settings</string>
+    <string name="setting_defualt_backview">Defualt Show BackView</string>
+
+
+</resources>

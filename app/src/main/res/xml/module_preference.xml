@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceGroup
+    xmlns:camera="http://schemas.android.com/apk/res/com.wwc2.camera360">
+
+    <com.wwc2.camera360.data.CamListPreference
+        camera:key="com.wwc2.camera360.module.BackViewModule"
+        camera:title="@string/BackView"/>
+
+</PreferenceGroup>
