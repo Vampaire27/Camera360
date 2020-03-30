@@ -16,9 +16,6 @@ import java.io.IOException;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * Created by wenzhe on 11/27/17.
- */
 
 public class XmlInflater {
     private static final String TAG = Config.getTag(XmlInflater.class);

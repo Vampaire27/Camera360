@@ -8,9 +8,6 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 
-/**
- * Created by wenzhe on 16-3-25.
- */
 public class Permission {
 
     public static final int REQUEST_CODE = 5;

@@ -7,7 +7,6 @@ import android.hardware.camera2.CaptureRequest;
 import android.util.Log;
 import android.view.View;
 import com.wwc2.camera360.manager.CameraSession;
-import com.wwc2.camera360.manager.CameraSettings;
 import com.wwc2.camera360.manager.CameraUiEvent;
 import com.wwc2.camera360.manager.DeviceManager;
 import com.wwc2.camera360.manager.RequestCallback;
@@ -16,9 +15,6 @@ import com.wwc2.camera360.ui.main.BackUI;
 import com.wwc2.camera360.util.CameraUtil;
 import com.wwc2.camera360.util.Config;
 
-/**
- * Created by wenzhe on 16-3-8.
- */
 public class BackViewModule extends ViewModule {
 
     private SurfaceTexture mSurfaceTexture;

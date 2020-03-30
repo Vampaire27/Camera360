@@ -2,10 +2,6 @@ package com.wwc2.camera360.data;
 
 import java.util.ArrayList;
 
-/**
- * Created by wenzhe on 11/27/17.
- */
-
 public class PreferenceGroup {
     private ArrayList<CamListPreference> mList = new ArrayList<>();
 

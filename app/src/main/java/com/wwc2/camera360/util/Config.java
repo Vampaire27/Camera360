@@ -3,10 +3,6 @@ package com.wwc2.camera360.util;
 import android.graphics.ImageFormat;
 import android.util.Size;
 
-/**
- * Created by wenzhe on 3/17/17.
- */
-
 public class Config {
     // some default config, not actually
     public static final String MAIN_ID = "0";
